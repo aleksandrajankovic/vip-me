@@ -193,3 +193,6 @@ let data = {
     rankingSystemContainer.innerHTML = generateHTMLRanking(data.rankingSystem);
   });
   
+
+
+  

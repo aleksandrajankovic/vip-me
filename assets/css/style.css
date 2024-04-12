@@ -347,7 +347,7 @@ footer {
   }
 
   #footer-payments img {
-    height: 20px !important;
+    height: 30px !important;
     margin: 5px 10px;
     opacity: 0.5;
   }
@@ -433,34 +433,37 @@ display: inline-block;
   }
 
   #social .wrapper-social .facebook span {
-    background: url(https://meridianbet.rs/assets/images/deposit/footer/social/facebook.svg)
+    background: url(https://meridianbet.me/assets/images/deposit/footer/social/facebook.svg)
       no-repeat center center;
     background-size: 16px !important;
   }
 
-
+  #social .wrapper-social .tiktok span {
+    background: url(https://meridianbet.me/assets/images/deposit/footer/social/tiktok.svg) no-repeat center center;
+    background-size: auto 32px !important;
+}
 
   #social .wrapper-social .instagram span {
-    background: url(https://meridianbet.rs/assets/images/deposit/footer/social/instagram.svg)
+    background: url(https://meridianbet.me/assets/images/deposit/footer/social/instagram.svg)
       no-repeat center center;
     background-size: 32px !important;
-  }
+  } 
 
- 
-
-  #social .wrapper-social .twitter span {
-    background: url(https://meridianbet.rs/assets/images/deposit/footer/social/twitter.svg)
-      no-repeat center center;
+  #social .wrapper-social .xLogo span {
+    background: url(https://meridianbet.me/assets/images/deposit/footer/social/X_logo.svg) no-repeat center center;
     background-size: 32px !important;
-  }
-
+}
  
   #social .wrapper-social .youtube span {
-    background: url(https://meridianbet.rs/assets/images/deposit/footer/social/youtube.svg)
+    background: url(https://meridianbet.me/assets/images/deposit/footer/social/youtube.svg)
       no-repeat center center;
     background-size: 32px !important;
   }
 
+  #social .wrapper-social .linkedin span {
+    background: url(https://meridianbet.me/assets/images/deposit/footer/social/linkedin.svg) no-repeat center center;
+    background-size: 32px !important;
+}
   #authority {
     display: block;
     width: 100%;
@@ -624,3 +627,6 @@ display: inline-block;
         padding: 1.5rem;
     }
   }
+
+
+
