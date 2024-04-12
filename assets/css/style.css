@@ -55,8 +55,14 @@ ul {
     list-style-type: none;
   }
   @media (prefers-color-scheme: dark) {
-   .hero-elements h1, h3 {
-        color: #BFA065;
+   .hero-elements h1 {
+        color: #E9CC6F !important;
+        background: none;
+        
+    }
+    .hero-elements h3 {
+        color: #BFA065 !important;
+        background: none;
         
     }
 }
