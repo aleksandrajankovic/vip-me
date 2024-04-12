@@ -16,12 +16,18 @@ box-sizing: border-box;
    
 }
 
+@font-face {
+    font-family: "News706";
+    src: url('../font/NEWS706B.ttf') format('truetype'); /* putanja do fonta */
+    /* Dodajte ostale format opcije ako su vam potrebne (woff, woff2, etc.) */
+}
+
 h1 {
     font-size: 200px;
     background: linear-gradient(180deg, #FCF5A3 0%, #F3E189 25%, #E9CC6F 50%, #BC9D63 75%, #6B5636 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-family: 'Roboto Flex', sans-serif;
+    font-family: 'News706';
     font-weight: 800;
     line-height: 201px;
     letter-spacing: 12px;
@@ -520,7 +526,7 @@ display: inline-block;
       }
       .hero-wrapper {
   
-         gap: 410px;
+         gap: 560px;
       }
     h1 {
         font-size: 100px;      
@@ -587,7 +593,7 @@ display: inline-block;
     }
     .wrapper {
 
-        margin: 80px auto 0 auto;
+        margin: 150px auto 0 auto;
 
     }
     .popup-box h2 {

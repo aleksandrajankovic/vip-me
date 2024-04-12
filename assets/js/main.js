@@ -2,14 +2,14 @@ let data = {
     licniAsistent: [
       {
         title: "Lični asistent",
-        desc: "Vaš saveznik za efikasnost i olakšanje. Osećajte se sigurno u svakom trenutku.",
+        desc: "Vaš neprikosnoveni saveznik za optimalno iskustvo. Garantujemo vam brzu reakciju, a vaši upiti i zahtjevi će biti tretirani kao prioritet.",
         image: "assets/icons/icon-1.svg"
       },
     ],
     specijalniBonusi: [
       {
         title: "Specijalni bonusi",
-        desc: "Preuzmite ekskluzivne bonus pakete. Uživajte u posebno prilagođenim nagradama samo za vas.",
+        desc: "Preuzmite ekskluzivne bonus pakete. Uživajte u ekskluzivnim poklonima, prilagođenim lično vama.",
         image: "assets/icons/icon-2.svg"
       },
     ],
@@ -30,14 +30,14 @@ let data = {
       rezervacijeUlaznice: [
         {
           title: "REZERVACIJE ULAZNICA",
-          desc: "Pružamo privilegovanu mogućnost rezervacije ulaznica za VIP klijente - pošaljite upit i garantujemo vam mesto.",
+          desc: "Pružamo privilegovanu mogućnost rezervacije ulaznica za VIP klijente - pošaljite upit i garantujemo vam mjesto.",
           image: "assets/icons/icon-5.svg"
         },
       ],
       dodatneNagrade: [
         {
           title: "DODATNE NAGRADE",
-          desc: "Nadmašujemo vaša očekivanja. Budite spremni za nova iznenađenja i nagrade koje će vas očarati.",
+          desc: "Nadmašujemo vaša očekivanja. Budite spremni za nova iznenađenja i poklone koji će vas očarati.",
           image: "assets/icons/icon-6.svg"
         },
       ],
@@ -45,26 +45,26 @@ let data = {
         silver: {
           head : "VIP SILVER",
           deposit: "deposit",
-          prise:" 50.000 rsd - 99.999 rsd",
-          bulletOne: "Mesečni bonusi ",
+          prise:" 500€ - 999€",
+          bulletOne: "Mjesečni bonusi ",
           bulletTwo: "Rakeback ",
           bulletThree: "Nedeljni bonusi"
         },
         gold: {
           head : "VIP GOLD",
           deposit: "deposit",
-          prise:" 100.000 rsd - 249.999 rsd",
+          prise:" 1,000€ - 2,499€",
           bulletOne: "Nedeljni cashback ",
-          bulletTwo: "Mesečni bonus paketi ",
+          bulletTwo: "Mjesečni bonus paketi ",
           bulletThree: "Rakeback",
           bulletFour: "Nedeljni bonusi"
         },
         platinum: {
           head : "VIP PLATINUM",
           deposit: "deposit",
-          prise:" > 250.000 rsd",
+          prise:" > 2,500€ ",
           bulletOne: "Nedeljni cashback ",
-          bulletTwo: "Mesečni bonus paketi ",
+          bulletTwo: "Mjesečni bonus paketi ",
           bulletThree: "Rakeback",
           bulletFour: "Nedeljni bonusi",
           bulletFive: "Rast bonusa"
