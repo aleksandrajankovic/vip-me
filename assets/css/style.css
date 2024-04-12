@@ -77,6 +77,9 @@ ul {
     justify-content: center;
     align-items: center;
 }
+.hero-elements a {
+    text-align: center;
+}
 .wrapper {
  
     width: 55%;
