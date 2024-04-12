@@ -24,12 +24,12 @@ box-sizing: border-box;
 @media (prefers-color-scheme: dark) {
     .hero-elements h1 {
          color: #E9CC6F !important;
-         background: none;
+         background: unset;
          
      }
      .hero-elements h3 {
          color: #BFA065 !important;
-         background: none;
+         background: unset;
          
      }
  }
