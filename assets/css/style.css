@@ -279,7 +279,8 @@ ul {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: #A80000;
+    background: linear-gradient(180deg, #A60303 20.22%, #760000 79.69%);
+
     border-radius: 2rem;
     width: 30%;
     height: auto;
