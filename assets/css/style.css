@@ -21,7 +21,18 @@ box-sizing: border-box;
     src: url('../font/NEWS706B.ttf') format('truetype'); /* putanja do fonta */
     /* Dodajte ostale format opcije ako su vam potrebne (woff, woff2, etc.) */
 }
-
+@media (prefers-color-scheme: dark) {
+    .hero-elements h1 {
+         color: #E9CC6F !important;
+         background: none;
+         
+     }
+     .hero-elements h3 {
+         color: #BFA065 !important;
+         background: none;
+         
+     }
+ }
 h1 {
     font-size: 200px;
     background: linear-gradient(180deg, #FCF5A3 0%, #F3E189 25%, #E9CC6F 50%, #BC9D63 75%, #6B5636 100%);
@@ -54,18 +65,7 @@ a {
 ul {
     list-style-type: none;
   }
-  @media (prefers-color-scheme: dark) {
-   .hero-elements h1 {
-        color: #E9CC6F !important;
-        background: none;
-        
-    }
-    .hero-elements h3 {
-        color: #BFA065 !important;
-        background: none;
-        
-    }
-}
+
 .hero {
     background-image: url(../images/hero.png) ;
     background-size: cover;
