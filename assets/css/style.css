@@ -102,7 +102,7 @@ ul {
 .text-box-1 h4 {
     font-family: 'Kumbh Sans', sans-serif;
     font-size: 45px;
-    font-weight: 200;
+    font-weight: 300;
     line-height: 60px;
     text-align: center;
     background: linear-gradient(0deg, #FFFCAC, #FFFCAC);
@@ -147,10 +147,10 @@ ul {
     text-align: center; 
 }
 .icon-box p {
-    font-family: 'Kumbh Sans Regular', sans-serif;
-    font-size: 18px;
-    font-weight: 200;
-    line-height: 26px;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
     letter-spacing: 0em;
     text-align: center;
     color: #ebce6fc9;
@@ -298,7 +298,7 @@ ul {
 }
 
 .popup-box h2 {
-    font-size: 36px;
+    font-size: 28px;
     font-weight: 400;
     color: #EBCE6F;
     text-align: center;
@@ -309,9 +309,9 @@ ul {
 
 .popup-box p {
     font-family: 'Kumbh Sans', sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 300;
-    line-height: 33px;
+    line-height: 24px;
     letter-spacing: 0em;
     text-align: center;
     color: #fff;
@@ -597,13 +597,13 @@ display: inline-block;
 
     }
     .popup-box h2 {
-        font-size: 32px;
+        font-size: 24px;
     }
     .box {
         width: 70%;
     }
     .prise p {
-        font-size: 20px;
+        font-size: 16px;
     }
   
 }
