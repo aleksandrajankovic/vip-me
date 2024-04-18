@@ -446,35 +446,35 @@ display: inline-block;
   }
 
   #social .wrapper-social .facebook span {
-    background: url(https://meridianbet.me/assets/images/deposit/footer/social/facebook.svg)
+    background: url(https://meridianbet.me/assets-new/images/deposit/footer/social/facebook.svg)
       no-repeat center center;
     background-size: 16px !important;
   }
 
   #social .wrapper-social .tiktok span {
-    background: url(https://meridianbet.me/assets/images/deposit/footer/social/tiktok.svg) no-repeat center center;
+    background: url(https://meridianbet.me/assets-new/images/deposit/footer/social/tiktok.svg) no-repeat center center;
     background-size: auto 32px !important;
 }
 
   #social .wrapper-social .instagram span {
-    background: url(https://meridianbet.me/assets/images/deposit/footer/social/instagram.svg)
+    background: url(https://meridianbet.me/assets-new/images/deposit/footer/social/instagram.svg)
       no-repeat center center;
     background-size: 32px !important;
   } 
 
   #social .wrapper-social .xLogo span {
-    background: url(https://meridianbet.me/assets/images/deposit/footer/social/X_logo.svg) no-repeat center center;
+    background: url(https://meridianbet.me/assets-new/images/deposit/footer/social/X_logo.svg) no-repeat center center;
     background-size: 32px !important;
 }
  
   #social .wrapper-social .youtube span {
-    background: url(https://meridianbet.me/assets/images/deposit/footer/social/youtube.svg)
+    background: url(https://meridianbet.me/assets-new/images/deposit/footer/social/youtube.svg)
       no-repeat center center;
     background-size: 32px !important;
   }
 
   #social .wrapper-social .linkedin span {
-    background: url(https://meridianbet.me/assets/images/deposit/footer/social/linkedin.svg) no-repeat center center;
+    background: url(https://meridianbet.me/assets-new/images/deposit/footer/social/linkedin.svg) no-repeat center center;
     background-size: 32px !important;
 }
   #authority {
@@ -672,7 +672,7 @@ display: inline-block;
 }
   @media screen and (max-width: 376px) {
     .wrapper {
-        margin: 183px auto 0 auto;
+        margin: 75px auto 0 auto;
     }
     .text-box-1 h4 {
         font-size: 26px;
